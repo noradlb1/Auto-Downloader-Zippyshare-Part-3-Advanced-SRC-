@@ -1,0 +1,9 @@
+C:\Users\Adi\documents\visual studio 2010\Projects\Auto Download Zippyshare\Auto Download Zippyshare\bin\Release\Auto Download Zippyshare.exe
+C:\Users\Adi\documents\visual studio 2010\Projects\Auto Download Zippyshare\Auto Download Zippyshare\bin\Release\Auto Download Zippyshare.pdb
+C:\Users\Adi\documents\visual studio 2010\Projects\Auto Download Zippyshare\Auto Download Zippyshare\bin\Release\Auto Download Zippyshare.xml
+C:\Users\Adi\documents\visual studio 2010\Projects\Auto Download Zippyshare\Auto Download Zippyshare\obj\x86\Release\Auto_Download_Zippyshare.Form1.resources
+C:\Users\Adi\documents\visual studio 2010\Projects\Auto Download Zippyshare\Auto Download Zippyshare\obj\x86\Release\Auto_Download_Zippyshare.Resources.resources
+C:\Users\Adi\documents\visual studio 2010\Projects\Auto Download Zippyshare\Auto Download Zippyshare\obj\x86\Release\Auto Download Zippyshare.vbproj.GenerateResource.Cache
+C:\Users\Adi\documents\visual studio 2010\Projects\Auto Download Zippyshare\Auto Download Zippyshare\obj\x86\Release\Auto Download Zippyshare.exe
+C:\Users\Adi\documents\visual studio 2010\Projects\Auto Download Zippyshare\Auto Download Zippyshare\obj\x86\Release\Auto Download Zippyshare.xml
+C:\Users\Adi\documents\visual studio 2010\Projects\Auto Download Zippyshare\Auto Download Zippyshare\obj\x86\Release\Auto Download Zippyshare.pdb
